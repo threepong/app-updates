@@ -1,7 +1,7 @@
 {
   "applicationId": "com.local.kakeibo",
-  "versionCode": 6,
-  "versionName": "0.1.6",
+  "versionCode": 7,
+  "versionName": "0.1.7",
   "releaseUrl": "https://github.com/threepong/android-kakeibo/releases/latest",
-  "updatedAt": "2026-07-05T23:29:23Z"
+  "updatedAt": "2026-07-05T23:43:25Z"
 }
